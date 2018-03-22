@@ -1,8 +1,9 @@
 # AR-app
 
-## Test 1
+## Test 1: Getting started with Vuforia
 
-<img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test1.jpg" align = "middle">
+[We followed this tutorial.](https://www.youtube.com/watch?v=kjNhWrUpUeE)
+
 <img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test2.jpg" align = "middle">
 
 
