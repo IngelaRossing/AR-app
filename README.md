@@ -4,7 +4,7 @@
 
 [We followed this tutorial.](https://www.youtube.com/watch?v=kjNhWrUpUeE)
 
-<img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test2.jpg" align = "middle">
+<img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test2.jpg">
 
 
 
