@@ -14,7 +14,7 @@ https://www.manomotion.com
 
 ## Test 2: Mapping custom material
 
-<img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test2.jpg">
+<img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test3.jpg">
 
 [How to create an Augmented Reality App](https://www.youtube.com/watch?v=MtiUx_szKbI)
 [Lets Make an Augmented Reality App](https://www.youtube.com/watch?v=khavGQ7Dy3c)
