@@ -16,8 +16,8 @@ https://www.manomotion.com
 
 <img src = "https://github.com/IngelaRossing/AR-app/blob/master/img/test3.png">
 
-[How to create an Augmented Reality App](https://www.youtube.com/watch?v=MtiUx_szKbI)
-[Lets Make an Augmented Reality App](https://www.youtube.com/watch?v=khavGQ7Dy3c)
+- [How to create an Augmented Reality App](https://www.youtube.com/watch?v=MtiUx_szKbI)
+- [Lets Make an Augmented Reality App](https://www.youtube.com/watch?v=khavGQ7Dy3c)
 
 
 
